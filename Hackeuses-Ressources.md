@@ -1,13 +1,13 @@
-#Ressources - Hackeuses BDX Vol.1#
+# Ressources - Hackeuses BDX Vol.1
 
-##Charte Graphique
+## Charte Graphique
 
-###Logo
+### Logo
 
 - [Figma.com](https://www.figma.com/)
 - [Canva](https://www.canva.com/)
 
-###Polices
+### Polices
 
 **Outils**
 
@@ -20,7 +20,7 @@
 - [5 best practices for effectively pairing fonts](https://www.invisionapp.com/inside-design/best-practices-pairing-fonts/)
 
 
-###Couleurs
+### Couleurs
 
 **Comment exprimer la couleur**
 
@@ -39,10 +39,10 @@
  - [A quick guide to choosing a color palette](https://www.invisionapp.com/inside-design/quick-guide-color-palette/)
 
 
-##Inspirations
+## Inspirations
 
 
-##Bonnes pratiques
+## Bonnes pratiques
 - **Sites**
   - [Opquast](http://checklists.opquast.com/fr/)
   - [The W3C Markup Validator](https://validator.w3.org/#validate_by_upload)
@@ -50,7 +50,7 @@
 - **Articles**
 
 
-##Apprendre en ligne
+## Apprendre en ligne
 - **Open Classrooms**
   - [Apprenez à créer votre site web avec HTML5 et CSS3]
 (https://openclassrooms.com/fr/courses/1603881-apprenez-a-creer-votre-site-web-avec-html5-et-css3)
@@ -70,7 +70,7 @@
     - [Html - Css | FlexBox - Maitriser le positionnement (partie 1)](https://youtu.be/bDW9EWbHvHk)
 
 
-##Documentation
+## Documentation
 - **[Commencer avec le web sur Mozilla.org](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web)**
 - **[W3Schools Online Web Tutorial](https://www.w3schools.com/)**
 
@@ -79,6 +79,6 @@
   - [CSS Diner](https://flukeout.github.io/)
 
 
-##Construire un réseau
+## Construire un réseau
 - **Savoir ce qu'il se passe sur Bordeaux**
  - [La French Tech Bordeaux](https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/)
