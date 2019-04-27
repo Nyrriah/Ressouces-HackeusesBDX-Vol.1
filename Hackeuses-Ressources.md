@@ -2,8 +2,7 @@
 
 ## Charte Graphique
 
-- ### Not Logo
-- 
+- ### Logo
 
   - [Figma.com](https://www.figma.com/)
   - [Canva](https://www.canva.com/)
@@ -83,5 +82,5 @@
 - **Savoir ce qu'il se passe sur Bordeaux**
    - [La French Tech Bordeaux](https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQzNjA0MzVdfQ==
+eyJoaXN0b3J5IjpbLTExODY3MTM4MjldfQ==
 -->
