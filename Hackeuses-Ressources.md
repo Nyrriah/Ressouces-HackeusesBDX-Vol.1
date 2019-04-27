@@ -2,31 +2,33 @@
 
 ## Charte Graphique
 
-### Logo
+- ### Logo
 
-- [Figma.com](https://www.figma.com/)
-- [Canva](https://www.canva.com/)
+  - [Figma.com](https://www.figma.com/)
+  - [Canva](https://www.canva.com/)
 
-### Polices
+- ### Polices
 
-**Outils**
+   - **Outils**
 
-- [Google font](https://fonts.google.com/)
-- [Topography.com](https://www.typography.com/): payant
-- [Behance.net](https://www.behance.net/search?content=projects&sort=appreciations&time=week&featured_on_behance=true&search=typography)
+      - [Google font](https://fonts.google.com/)
+      - [Topography.com](https://www.typography.com/): payant
+      - [Behance.net](https://www.behance.net/search?content=projects&sort=appreciations&time=week&featured_on_behance=true&search=typography)
 
-**Articles**
+   - **Articles**
 
-- [5 best practices for effectively pairing fonts](https://www.invisionapp.com/inside-design/best-practices-pairing-fonts/)
+      - [5 best practices for effectively pairing fonts](https://www.invisionapp.com/inside-design/best-practices-pairing-fonts/)
 
 
-### Couleurs
+- ### Couleurs
+   - **Outils pour selectionner ses couleurs**
+      - [Color Tool](https://www.google.com/search?q=color+tool&oq=color+tool&aqs=chrome..69i57j0l5.2345j0j7&sourceid=chrome&ie=UTF-8)
+      
 
-**Comment exprimer la couleur**
+   - **Comment exprimer la couleur**
 
-- [Color Tool](https://www.google.com/search?q=color+tool&oq=color+tool&aqs=chrome..69i57j0l5.2345j0j7&sourceid=chrome&ie=UTF-8)
-- [RGB](https://www.w3schools.com/colors/colors_rgb.asp)
-- [HEX](https://www.w3schools.com/colors/colors_hexadecimal.asp)
+      - [RGB](https://www.w3schools.com/colors/colors_rgb.asp)
+      - [HEX](https://www.w3schools.com/colors/colors_hexadecimal.asp)
 
 **Palette de couleurs**
 
@@ -68,7 +70,7 @@
 
 
 ## Documentation
-- **[Commencer avec le web sur Mozilla.org](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web)**
+- **[Commencer le web sur Mozilla.org](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web)**
 - **[W3Schools Online Web Tutorial](https://www.w3schools.com/)**
 
 ## C'est chouette
@@ -78,4 +80,4 @@
 
 ## Construire un réseau
 - **Savoir ce qu'il se passe sur Bordeaux**
-  - [La French Tech Bordeaux](https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/)
+   - [La French Tech Bordeaux](https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/https://www.frenchtechbordeaux.com/)
