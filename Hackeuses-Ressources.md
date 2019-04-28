@@ -23,6 +23,7 @@
 - ### Couleurs
    - **Outils pour selectionner ses couleurs**
       - [Color Tool](https://www.google.com/search?q=color+tool&oq=color+tool&aqs=chrome..69i57j0l5.2345j0j7&sourceid=chrome&ie=UTF-8)
+      - [Dico des couleurs](http://www.code-couleur.com/dictionnaire/)
       
 
    - **Comment exprimer la couleur**
